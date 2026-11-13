@@ -4,7 +4,7 @@
 
 A data-driven system that measures how **batters** and **bowlers** perform in high-pressure match situations compared with their usual performance levels, and ranks the players who deliver most consistently when it matters. Built on IPL ball-by-ball data (2022–2026) and used to drive Rajasthan Royals' IPL 2027 mini-auction strategy.
 
-**Author:** Raghav Patil · **Auction:** 16 Dec 2026, Goa · **Retention deadline:** 15 Nov 2026
+**Author:** Raghav Patil · **Auction:** 16 Dec 2026, Goa 
 
 ---
 
