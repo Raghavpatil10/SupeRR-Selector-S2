@@ -4,7 +4,7 @@
 
 A data-driven system that measures how **batters** and **bowlers** perform in high-pressure match situations compared with their usual performance levels, and ranks the players who deliver most consistently when it matters. Built on IPL ball-by-ball data (2022–2026) and used to drive Rajasthan Royals' IPL 2027 mini-auction strategy.
 
-**Author:** Raghav Patil · **Auction:** 16 Dec 2026, Goa 
+**Author:** Raghav Patil 
 
 ---
 
@@ -322,6 +322,4 @@ Outputs written:
 8. Nationality inferred from `competition_team_player_mapping`.
 9. No real-time retention/injury data; availability based on franchise logic as of Nov 2026.
 
----
 
-*Prepared by Raghav Patil · SupeRR Selector Season 2 · Rajasthan Royals Auction Analytics · Nov 2026*
